@@ -1,4 +1,4 @@
-# ASP.NET-website-exercise
+# ASP.NET Web Forms exercise.
 Second exercise in ASP.NET
 
 Webpage presenting simple e-commerce site. As a customer you can view and buy products. 
