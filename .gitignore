@@ -209,3 +209,6 @@ FakesAssemblies/
 
 # Authorization file
 */App_Start/Startup.Auth.cs
+
+# PayPalFunctions
+*/Logic/PayPalFunctions.cs
