@@ -7,5 +7,9 @@ namespace WingTipToys.Logic
 {
     internal class RoleActions
     {
+        internal void AddUserAndRole()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

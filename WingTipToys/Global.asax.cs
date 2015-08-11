@@ -22,6 +22,10 @@ namespace WingTipToys
 
             // Initialize product database
             Database.SetInitializer(new ProductDatabaseInitializer() );
+
+            // Create the custom role and user.
+            RoleActions roleActions = new RoleActions();
+            roleActions.AddUserAndRole();
         }
     }
 }
