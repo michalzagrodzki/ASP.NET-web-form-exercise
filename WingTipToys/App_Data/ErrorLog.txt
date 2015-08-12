@@ -1,0 +1,90 @@
+********** 2015-08-12 16:33:11 **********
+Exception Type: System.Web.HttpException
+Exception: An HTTP error occurred. Page Not found. Please try again.
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 2015-08-12 16:55:55 **********
+Exception Type: System.Exception
+Exception: The error was unhandled by application code.
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 2015-08-12 16:56:14 **********
+Exception Type: System.Exception
+Exception: The error was unhandled by application code.
+Source: Error Page
+Stack Trace: 
+********** 2015-08-12 17:01:40 **********
+Inner Exception Type: System.InvalidOperationException
+Inner Exception: An InvalidOperationException occurred in the Page_Load handler on the Default.aspx page.
+Inner Source: WingTipToys
+Inner Stack Trace: 
+   w WingTipToys._Default.Page_Load(Object sender, EventArgs e) w f:\Websites\WingTipToys\WingTipToys\Default.aspx.cs:wiersz 14
+   w System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   w System.Web.UI.Control.OnLoad(EventArgs e)
+   w System.Web.UI.Control.LoadRecursive()
+   w System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+Exception Type: System.Web.HttpUnhandledException
+Exception: Zgłoszono wyjątek typu 'System.Web.HttpUnhandledException'.
+Source: Application_Error - Global.asax
+Stack Trace: 
+   w System.Web.UI.Page.HandleError(Exception e)
+   w System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   w System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   w System.Web.UI.Page.ProcessRequest()
+   w System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   w System.Web.UI.Page.ProcessRequest(HttpContext context)
+   w ASP.default_aspx.ProcessRequest(HttpContext context) w c:\Users\michal\AppData\Local\Temp\Temporary ASP.NET Files\vs\de02bd86\d050f434\App_Web_oenmlcfi.6.cs:wiersz 0
+   w System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   w System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+********** 2015-08-12 17:03:45 **********
+Inner Exception Type: System.InvalidOperationException
+Inner Exception: An InvalidOperationException occurred in the Page_Load handler on the Default.aspx page.
+Inner Source: WingTipToys
+Inner Stack Trace: 
+   w WingTipToys._Default.Page_Load(Object sender, EventArgs e) w f:\Websites\WingTipToys\WingTipToys\Default.aspx.cs:wiersz 14
+   w System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   w System.Web.UI.Control.OnLoad(EventArgs e)
+   w System.Web.UI.Control.LoadRecursive()
+   w System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+Exception Type: System.Web.HttpUnhandledException
+Exception: Zgłoszono wyjątek typu 'System.Web.HttpUnhandledException'.
+Source: Application_Error - Global.asax
+Stack Trace: 
+   w System.Web.UI.Page.HandleError(Exception e)
+   w System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   w System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   w System.Web.UI.Page.ProcessRequest()
+   w System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   w System.Web.UI.Page.ProcessRequest(HttpContext context)
+   w ASP.default_aspx.ProcessRequest(HttpContext context) w c:\Users\michal\AppData\Local\Temp\Temporary ASP.NET Files\vs\de02bd86\d050f434\App_Web_oenmlcfi.6.cs:wiersz 0
+   w System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   w System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+********** 2015-08-12 17:04:18 **********
+Exception Type: System.InvalidOperationException
+Exception: An InvalidOperationException occurred in the Page_Load handler on the Default.aspx page.
+Source: Page_Error - Default.aspx
+Stack Trace: 
+   w WingTipToys._Default.Page_Load(Object sender, EventArgs e) w f:\Websites\WingTipToys\WingTipToys\Default.aspx.cs:wiersz 14
+   w System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   w System.Web.UI.Control.OnLoad(EventArgs e)
+   w System.Web.UI.Control.LoadRecursive()
+   w System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+********** 2015-08-12 17:04:28 **********
+Exception Type: System.InvalidOperationException
+Exception: An InvalidOperationException occurred in the Page_Load handler on the Default.aspx page.
+Source: Page_Error - Default.aspx
+Stack Trace: 
+   w WingTipToys._Default.Page_Load(Object sender, EventArgs e) w f:\Websites\WingTipToys\WingTipToys\Default.aspx.cs:wiersz 14
+   w System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   w System.Web.UI.Control.OnLoad(EventArgs e)
+   w System.Web.UI.Control.LoadRecursive()
+   w System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+********** 2015-08-12 17:27:49 **********
+Exception Type: System.Web.HttpException
+Exception: An HTTP error occurred. Page Not found. Please try again.
+Source: customErrors section - Web.config
+Stack Trace: 
